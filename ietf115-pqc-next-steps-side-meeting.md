@@ -1,7 +1,9 @@
 # Additional PQC Next Steps Side Meeting at IETF 115
 * Monday, November 7, 2022, 1800-1900 (London time)
 * Richmond 6, West Wing, First Floor
-* &lt;remote connectivity TBD&gt;
+* Remote Connectivity
+  * https://cmu.zoom.us/j/91727694063?pwd=dUwyekRKVTVBL0E0eDFmTmFtdHlpdz09
+  * Note: This room will not be configurated with the streamlined A/V support provided for formal IETF meetings.  We will use a "whole room" microphone which historically has provided reasonable audio support for the speakers in the room.
 
 ## (1) "PQC Transition Support" WG proposal 
 * Background:
