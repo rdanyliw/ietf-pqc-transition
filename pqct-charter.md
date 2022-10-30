@@ -10,4 +10,4 @@ As a result of this discussion, the WG will document operational and design guid
 The IESG is establishing this working group on an experimental basis, and in 2 years, the IESG intends to review it, for rechartering to continue or else closure.
 
  ## Milestones
-* Informational document that defines terminology for hybrid PQC schemes
+* Informational document that defines terminology for hybrid PQC schemes pubmitted for publication
