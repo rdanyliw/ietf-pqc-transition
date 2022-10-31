@@ -2,4 +2,6 @@
 
 * [Charter proposal](https://github.com/rdanyliw/ietf-pqc-transition/blob/main/pqct-charter.md) for a WG to facilitate the evolution of IETF protocols and associated operational guidance on PQC.  It would not define or update any protocols.  The scope of this charter text comes from the IETF 114 SecDispatch result for [draft-driscoll-pqt-hybrid-terminology](https://datatracker.ietf.org/doc/draft-driscoll-pqt-hybrid-terminology/) where the SEC ADs were tasked to find a home for the work; and the continued energy of the [pqc@ietf.org](https://www.ietf.org/mailman/listinfo/Pqc) mailing list (e.g., [engineering guide to pqc](https://mailarchive.ietf.org/arch/msg/pqc/kA8V81SElrUC8Wy4zAehmBsGmno/)/[in github](https://github.com/paulehoffman/post-quantum-for-engineers)).  The charter structure was inspired by the [MOPS WG](https://datatracker.ietf.org/wg/mops/about/).
 
+* Discussion of [Charter proposal](https://github.com/rdanyliw/ietf-pqc-transition/blob/main/pqct-charter.md) is happening on [pqc@ietf.org list](https://mailarchive.ietf.org/arch/msg/pqc/FdsciCPx5lmkkUFtz7D9poObTFY/)
+
 * At IETF 115, there is [planned side meeting](https://github.com/rdanyliw/ietf-pqc-transition/blob/main/ietf115-pqc-next-steps-side-meeting.md) on this charter and discussing additional PQC next steps.  Join us on Monday, November 7, 2022, 1800-1900 (London time) in Richmond 6. 
