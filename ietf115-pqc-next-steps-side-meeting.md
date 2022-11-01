@@ -7,7 +7,7 @@
 
 ## (1) "PQC Transition Support" WG proposal 
 * Background:
-  * &lt;insert link to introductory email&gt;
+  * Introduction on pqc@ietf: https://mailarchive.ietf.org/arch/msg/pqc/FdsciCPx5lmkkUFtz7D9poObTFY/
   * Charter text: https://github.com/rdanyliw/ietf-pqc-transition/blob/main/pqct-charter.md
 * Discussion
   * Is this addressing a problem we need to tackle?
