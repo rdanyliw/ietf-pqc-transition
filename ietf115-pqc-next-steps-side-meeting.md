@@ -20,6 +20,7 @@
 * Discussion
   * Which tasks already have a home?
   * Which tasks need a home?
+    * What is the scale of this work? 
 
 ## (3) Do we need a PQC Directorate?
 * Background: do we need to form directorate (akin to SECDIR) for PQC issues?
