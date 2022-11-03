@@ -10,5 +10,5 @@ The WG will document operational and design guidance which supports PQC transiti
 The IESG is establishing this working group on an experimental basis, and in 2 years, the IESG intends to review it for rechartering to continue or else closure.
 
  ## Milestones
-* WG Adopton of an Informational document that defines terminology for (hybrid) PQC schemes
+* WG Adoption of an Informational document that defines terminology for (hybrid) PQC schemes
 * WG Adoption of an Informational document on ‘PQC for engineers’
