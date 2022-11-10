@@ -4,12 +4,14 @@ Enumerating what PQC takes may need to be done in the IETF.  Preparation for the
 
 ## Work that does not have a home
 * SSH
+* Kerberos (possibly via KITTEN WG)
+* XML Signature
 
 ## Work that has a home
 (see also [PQC Agility in IETF](https://trac.ietf.org/trac/sec/wiki/PQCAgility))
 * TLS via TLS WG
 * IPsec via IPSECME WG
-* CMS in LAMPS WG
-* X.509 in LAMPS WG
+* X.509, CMS, CMP in LAMPS WG
 * COSE in COSE WG
-* DNSSEC in DNSOP WG
+* JOSE in JOSE WG (if re-openned)
+* DNSSEC in DNSOP WG (needs confirmation)
